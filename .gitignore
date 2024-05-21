@@ -164,6 +164,6 @@ cython_debug/
 .upm
 .gitattributes
 .replit
-poetry.lock
-pyproject.toml
+*.lock
+*.toml
 replit_zip_error_log.txt
